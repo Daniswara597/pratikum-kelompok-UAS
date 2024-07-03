@@ -90,7 +90,6 @@ body {
   min-height: 100vh;
   display: flex;
   align-items: center;
-  background-image: url("../img/coffee.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -409,3 +408,4 @@ footer .credit a {
     font-size: 55%;
   }
 }
+ 
